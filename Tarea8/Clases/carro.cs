@@ -105,12 +105,6 @@ namespace Tarea8.Clases
             return mensaje;
         }
 
-        public string modelo()
-        {
-            string mensaje = "";
-
-            return mensaje;
-        }
     }
 
 }
